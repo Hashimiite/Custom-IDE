@@ -1,53 +1,33 @@
 Code Editor
-A lightweight, feature-rich code editor built in Java with support for multiple programming languages.
-Features
+A lightweight, feature-rich code editor built in Java with support for multiple programming languages. Designed for developers who need a simple yet powerful tool for coding in Java, Python, and JavaScript.
 
+✨ Features
 Multi-language Support
+Supported Languages:
+1)Java
+2)Python
+3)JavaScript
+4)Syntax Highlighting: Custom syntax highlighting for each language.
 
-Java
-Python
-JavaScript
-Syntax highlighting for each language
-Language-specific indentation rules
-
+Language-Specific Indentation: Automatic indentation rules tailored for each language.
 
 Editor Features
-
-Multiple tabs
-Line numbers
-Find and Replace
-Auto-indentation
-Code formatting
-Comment toggling
-Undo/Redo
-
-
-Themes
-
-Light
-Dark
-Monokai
-
+1)Multiple Tabs: Work on multiple files simultaneously.
+2)Line Numbers: Easily navigate through your code.
+3)Find and Replace: Quickly locate and replace text.
+4)Auto-Indentation: Automatically formats your code as you type.
+5)Code Formatting: Beautify your code with a single click.
+6)Comment Toggling: Quickly comment/uncomment lines of code.
+7)Undo/Redo: Easily revert or redo changes.
 
 File Operations
-
-New file
-Open file
-Save/Save as
-Multiple files in tabs
-
+1)Create New Files.
+2)Open existing files.
+3)Save or Save As to save files with custom names.
+4)Manage multiple files in tabs.
 
 Code Execution
-
-Run Java files (compiles and executes)
-Run Python scripts
-Run JavaScript files
-Output console window
-
-
-
-Requirements
-
-Java Development Kit (JDK) 17 or higher
-Python 3 (for running Python files)
-Node.js (for running JavaScript files)
+1)Run Java Files: Compiles and executes Java code.
+2)Run Python Scripts: Executes Python scripts directly
+3)Run JavaScript Files: Executes JavaScript code.
+4)Output Console: View program output in a dedicated console window

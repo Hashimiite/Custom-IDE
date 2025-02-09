@@ -353,7 +353,7 @@ public class MenuBar extends JMenuBar {
     }
     
     private void runPythonCode(String filePath) throws Exception {
-        Process process = Runtime.getRuntime().exec("/opt/homebrew/bin/python3 " + filePath);
+        Process process = Runtime.getRuntime().exec("Filepath to your python programme" + filePath);//Include the filepath where python is located
         showProcessOutput(process);
     }
     
