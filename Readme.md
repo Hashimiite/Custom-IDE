@@ -1,33 +1,40 @@
-Code Editor
-A lightweight, feature-rich code editor built in Java with support for multiple programming languages. Designed for developers who need a simple yet powerful tool for coding in Java, Python, and JavaScript.
+# 🖥️ Code Editor
 
-✨ Features
-Multi-language Support
-Supported Languages:
-1)Java
-2)Python
-3)JavaScript
-4)Syntax Highlighting: Custom syntax highlighting for each language.
+A **lightweight, feature-rich** code editor built in **Java** with support for multiple programming languages. Designed for developers who need a **simple yet powerful** tool for coding in **Java, Python, and JavaScript**.
 
-Language-Specific Indentation: Automatic indentation rules tailored for each language.
+---
 
-Editor Features
-1)Multiple Tabs: Work on multiple files simultaneously.
-2)Line Numbers: Easily navigate through your code.
-3)Find and Replace: Quickly locate and replace text.
-4)Auto-Indentation: Automatically formats your code as you type.
-5)Code Formatting: Beautify your code with a single click.
-6)Comment Toggling: Quickly comment/uncomment lines of code.
-7)Undo/Redo: Easily revert or redo changes.
+## ✨ Features
 
-File Operations
-1)Create New Files.
-2)Open existing files.
-3)Save or Save As to save files with custom names.
-4)Manage multiple files in tabs.
+### 🌍 **Multi-language Support**
+The editor provides seamless support for the following languages so far:
+- ☕ **Java**
+- 🐍 **Python**
+✔ **Syntax Highlighting** – Custom syntax highlighting for each language.  
+✔ **Language-Specific Indentation** – Automatic indentation rules tailored for each language.  
 
-Code Execution
-1)Run Java Files: Compiles and executes Java code.
-2)Run Python Scripts: Executes Python scripts directly
-3)Run JavaScript Files: Executes JavaScript code.
-4)Output Console: View program output in a dedicated console window
+---
+
+## 🔧 **Editor Features (N0.4 onwards to be added soon)**
+- 📑 **Multiple Tabs** – Work on multiple files simultaneously.
+- 🔢 **Line Numbers** – Easily navigate through your code.
+- 🔍 **Find and Replace** – Quickly locate and replace text.
+- ✨ **Auto-Indentation** – Automatically formats your code as you type.
+- 🎨 **Code Formatting** – Beautify your code with a single click.
+- 📝 **Comment Toggling** – Quickly comment/uncomment lines of code.
+- ⏪ **Undo/Redo** – Easily revert or redo changes.
+
+---
+
+## 📁 **File Operations**
+- 📄 **Create New Files** – Start fresh with a new file.  
+- 📂 **Open Existing Files** – Load and edit previously saved files.  
+- 💾 **Save or Save As** – Save files with custom names.  
+- 🖥️ **Manage Multiple Files** – Work with multiple files in tabs.  
+
+---
+
+## 🚀 **Code Execution**
+- ☕ **Run Java Files** – Compiles and executes Java code.  
+- 🐍 **Run Python Scripts** – Executes Python scripts directly.  
+- 🖥️ **Output Console** – View program output in a dedicated console window.  
