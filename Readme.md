@@ -1,4 +1,4 @@
-# 🖥️ Code Editor
+# 🖥 Code Editor
 
 A **lightweight, feature-rich** code editor built in **Java** with support for multiple programming languages. Designed for developers who need a **simple yet powerful** tool for coding in **Java, Python, and JavaScript**.
 
