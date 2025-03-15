@@ -1,4 +1,3 @@
-// gui/FindReplaceDialog.java
 package src.gui;
 
 import javax.swing.*;
